@@ -1,1 +1,1 @@
-# Human-Bioactives-Chemical-Database
+# Human-Bioactives-Structure-Database
