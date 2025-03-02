@@ -123,6 +123,7 @@ Figure 8: Human Bioactive Structure Database dialog box asking for user specifie
 The following improvements can be implemented in the database:
 
 i.	An autofill search bar that allows to facilitate searching of data.
+
 ii.	To enable sort function to sort in any order for the different filter options and customizable parameters.
 
 
